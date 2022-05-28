@@ -24,6 +24,8 @@ class ViewController: UIViewController {
     func test(){
         var test: String = "Kalyani"
     }
-    
+    func anotherFunc(){
+        var number: Int = 12
+    }
 }
 
