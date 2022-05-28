@@ -21,6 +21,9 @@ class ViewController: UIViewController {
         diceImageView2.image = diceArray[Int.random(in: 0...5)]
         
     }
+    func test(){
+        var test: String = "Kalyani"
+    }
     
 }
 
