@@ -27,5 +27,8 @@ class ViewController: UIViewController {
     func anotherFunc(){
         var number: Int = 12
     }
+    func addingButton(){
+        var new: String = "new"
+    }
 }
 
